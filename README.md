@@ -1,4 +1,4 @@
-# PROJECT-Image-Processing-with-Python
+# PROJECT-Image-Processing-with-Python:
 A WEBCAM MONITORING EMAIL ALERT APP WITH PYTHON
 This project introduces an innovative Python application designed to enhance security and surveillance capabilities through real-time webcam monitoring and email alerts. The primary objective of this endeavour is to create a comprehensive solution that combines computer vision with email communication. By leveraging the OpenCV library, this application continuously captures video from a webcam, employing various image processing techniques to detect motion or specific objects within the camera's frame.
 The pivotal feature of this project is its ability to promptly send email alerts when it identifies critical events, such as motion detection or objects exiting the camera's view. This capability not only provides users with remote surveillance capabilities but also delivers immediate notifications in the event of suspicious or unexpected occurrences, thereby significantly bolstering security measures and peace of mind.
